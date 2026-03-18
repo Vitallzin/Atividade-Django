@@ -20,3 +20,18 @@ Se a SECRET_KEY for exposta, a segurança da aplicação pode ser comprometida. 
 ### 4. Qual o papel do .gitignore em projetos colaborativos?
 O .gitignore serve para impedir que arquivos desnecessários ou sensíveis sejam enviados para o repositório, como arquivos temporários, ambiente virtual e o próprio .env, mantendo o projeto 
 organizado e seguro.
+
+---
+### Estrutura das pastas 
+eventos/
+│
+├── eventos/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+│
+├── manage.py
+├── requirements.txt
+├── .gitignore
+├── README.md
