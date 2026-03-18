@@ -23,7 +23,7 @@ organizado e seguro.
 
 ---
 ##  Estrutura do projeto
-eventos/
+```eventos/
 │
 ├── eventos/
 │ ├── init.py
@@ -34,4 +34,4 @@ eventos/
 ├── manage.py
 ├── requirements.txt
 ├── .gitignore
-├── README.md
+├── README.md```
