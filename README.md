@@ -24,7 +24,6 @@ organizado e seguro.
 ---
 ##  Estrutura do projeto
 ```eventos/
-│
 ├── eventos/
 │ ├── init.py
 │ ├── settings.py
