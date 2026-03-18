@@ -22,14 +22,14 @@ O .gitignore serve para impedir que arquivos desnecessários ou sensíveis sejam
 organizado e seguro.
 
 ---
-### Estrutura das pastas 
+##  Estrutura do projeto
 eventos/
 │
 ├── eventos/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── ...
+│ ├── init.py
+│ ├── settings.py
+│ ├── urls.py
+│ └── ...
 │
 ├── manage.py
 ├── requirements.txt
